@@ -1,0 +1,152 @@
+body {
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+
+
+
+
+/* SECTIONS */
+
+.colored-section {
+    background-image: linear-gradient(to right, #be1f5d, #1a226b);
+}
+
+.white-section {
+    background-color: white;
+}
+
+.heading {
+    color: white;
+}
+
+/* NAVBAR */
+
+.nav-con {
+    padding: 2% 8% 0;
+}
+
+.navbar {
+    padding: 0 0 2.5rem 0;
+}
+
+
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-weight: light;
+    font-size: 1.2rem;
+}
+
+
+/* TITLE */
+
+#title {
+    background-image: linear-gradient(to right, #be1f5d, #1a226b);
+}
+
+.title-logo {
+    width: 143%;
+    margin: -40% 0 -30% -24%;
+    
+}
+
+.esports-img {
+    width: 85%;
+    border-radius: 100%;
+    margin: 12% auto 2%;
+    padding: 0;
+}
+
+.title-heading {
+    font-weight: 900;
+    font-size: 3.5rem;
+    padding: 2% 16%;
+    text-align: left;
+    margin-top: 0;
+}
+
+
+/* FEATURES */
+
+#features {
+    margin: 7% auto;
+    padding: 0;
+}
+
+.feature-logo {
+    color: #1a226b;
+    margin-bottom: 5%;
+}
+
+.feature-logo:hover {
+    color: #be1f5d;
+}
+
+.feature-heading {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.feature-description {
+    width: 50%;
+    margin: 3% auto;
+}
+
+/* GAMES */
+
+#games {
+    height: 600px;
+}
+
+.games-heading {
+    font-weight: bold;
+    font-size: 4rem;
+    /* padding: 7% 30% 0; */
+}
+
+#games-carousel {
+    padding: 5%;
+    
+}
+
+.league-img {
+    width: 30%;
+}
+
+.dota2-img {
+    width: 10%;
+}
+
+.cod-img {
+    width: 30%;
+}
+
+/* FOOTER */
+
+#footer {
+    padding: 3% 15%;
+}
+
+.footer-icon {
+    background-color: white;
+    border: none;
+}
+
+
+
